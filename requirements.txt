@@ -1,0 +1,4 @@
+pydub
+yt-dlp
+discord.py
+python-dotenv
